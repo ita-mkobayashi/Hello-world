@@ -1,2 +1,2 @@
-# Hellow-world
+# Hello-world
 first repsitory
